@@ -1,7 +1,13 @@
-[
-  "data" : [
-    {"location" : 1},
-    {"hour" : 12}, 
-    {"minute" : 20}
+{
+  "data": [
+    {
+      "location": 1
+    },
+    {
+      "hour": 12
+    },
+    {
+      "minute": 20
+    }
   ]
-]
+}
