@@ -1,6 +1,5 @@
 {
-  "location":
-    { "station": 1},
-  "time":
-    { "hour": 12, "minutes": 20}
+  "location":1,
+  "hour": 12, 
+  "minute": 20
 }
